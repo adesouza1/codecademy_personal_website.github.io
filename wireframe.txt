@@ -4,12 +4,27 @@ Goal: Make a website describing my coding experience and why I am interested in 
 Title: "Andre DeSouza's Coding Journey"
 
 About Me Section
+I initally obtained my bacholers in Biology with a specialization in Neuroscience from the University of Maryland College Park
+before continuing on to the University of California, San Diego to pursue a Ph.D in Neuroscience. During my experience
+as a neuroscientist I taught myself some basic coding skills first using MatLab and then moving onto Python out
+of neccesity in order to be able to analyze and process code. Then early on in my neuroscience Ph.D I discovered 
+Bitcoin as well as smart contract blockchains such as Ethereum. I became enamored with blockchains and spent most of
+my free time learning about them and exploring how to use them. After saving some money and leaving my Ph.D, I began
+decided to spend a year becoming much more proficent at coding so I could work in the blockchain industry in order
+to build interesting and valuable products. This website will document this journey.
 
+My Coding Goals Section (This section will change with time)
 
-My Coding Goals Section
+Date:8/27/2022
 
+My current goal is to learn full stack development in order to build interactive websites. My intial short term goal
+is to learn how to use GraphQL queries in order to work with the Lens Protcol api and present data in a way that
+users find easy to observe.
+
+Drop Down Menu to select goals at earlier points in Time
 
 Skills Section
+HTML, CSS, Javascript,Python
 
 
 Add an interesting/cool picture to site 
