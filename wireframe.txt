@@ -1,0 +1,17 @@
+Personal Website:
+Goal: Make a website describing my coding experience and why I am interested in coding
+
+Title: "Andre DeSouza's Coding Journey"
+
+About Me Section
+
+
+My Coding Goals Section
+
+
+Skills Section
+
+
+Add an interesting/cool picture to site 
+
+Add some interesting JS code to the website. Ideas: buttons, multiple pictures that change when clicked.
